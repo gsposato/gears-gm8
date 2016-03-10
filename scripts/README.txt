@@ -1,0 +1,1 @@
+define scripts using the GameMaker 8.1 interface.

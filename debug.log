@@ -1,0 +1,239 @@
+[17:2:37] : starting unit tests
+[17:2:37] : objects/hello/construct.js - pass
+[17:2:37] : rooms/loader_room.js - pass
+[17:2:37] : finished unit tests
+[17:3:39] : starting unit tests
+[17:3:39] : objects/hello/construct.js - pass
+[17:3:39] : rooms/loader_room.js - pass
+[17:3:39] : finished unit tests
+[17:7:40] : starting unit tests
+[17:7:40] : objects/hello/construct.js - pass
+[17:7:40] : rooms/loader_room.js - pass
+[17:7:40] : finished unit tests
+[17:9:28] : starting unit tests
+[17:9:28] : objects/hello/construct.js - pass
+[17:9:28] : rooms/loader_room.js - pass
+[17:9:28] : finished unit tests
+[18:16:2] : starting unit tests
+[18:16:2] : objects/hello/construct.js - pass
+[18:16:2] : rooms/loader_room.js - pass
+[18:16:2] : finished unit tests
+[18:27:55] : starting unit tests
+[18:27:55] : objects/hello/construct.js - pass
+[18:27:55] : rooms/loader_room.js - pass
+[18:27:55] : finished unit tests
+[18:28:5] : starting unit tests
+[18:28:5] : objects/hello/construct.js - pass
+[18:28:5] : rooms/loader_room.js - pass
+[18:28:5] : finished unit tests
+[18:38:15] : starting unit tests
+[18:38:15] : objects/hello/construct.js - pass
+[18:38:15] : rooms/loader_room.js - pass
+[18:38:20] : objects/preloader/construct.js - fail
+[18:38:20] : finished unit tests
+[18:39:5] : starting unit tests
+[18:39:5] : objects/hello/construct.js - pass
+[18:39:5] : rooms/loader_room.js - pass
+[18:39:5] : objects/preloader/construct.js - fail
+[18:39:5] : finished unit tests
+[18:44:18] : starting unit tests
+[18:44:18] : objects/hello/construct.js - pass
+[18:44:18] : rooms/loader_room.js - pass
+[18:44:18] : objects/preloader/construct.js - fail
+[18:44:18] : finished unit tests
+[18:44:28] : starting unit tests
+[18:44:28] : objects/hello/construct.js - pass
+[18:44:28] : rooms/loader_room.js - pass
+[18:44:28] : objects/preloader/construct.js - fail
+[18:44:28] : finished unit tests
+[18:49:36] : starting unit tests
+[18:49:36] : objects/hello/construct.js - pass
+[18:49:36] : rooms/loader_room.js - pass
+[18:49:36] : objects/preloader/construct.js - fail
+[18:49:36] : finished unit tests
+[18:52:24] : starting unit tests
+[18:52:24] : objects/hello/construct.js - pass
+[18:52:24] : rooms/loader_room.js - pass
+[18:52:24] : objects/preloader/construct.js - fail
+[18:52:24] : finished unit tests
+[18:54:7] : starting unit tests
+[18:54:7] : objects/hello/construct.js - pass
+[18:54:7] : rooms/loader_room.js - pass
+[18:54:7] : objects/preloader/construct.js - fail
+[18:54:7] : finished unit tests
+[18:54:13] : starting unit tests
+[18:54:13] : objects/hello/construct.js - pass
+[18:54:13] : rooms/loader_room.js - pass
+[18:54:13] : objects/preloader/construct.js - fail
+[18:54:13] : finished unit tests
+[18:56:7] : starting unit tests
+[18:56:7] : objects/hello/construct.js - pass
+[18:56:7] : rooms/loader_room.js - pass
+[18:56:7] : objects/preloader/construct.js - fail
+[18:56:7] : finished unit tests
+[18:56:17] : starting unit tests
+[18:56:17] : objects/hello/construct.js - pass
+[18:56:17] : rooms/loader_room.js - pass
+[18:56:17] : objects/preloader/construct.js - fail
+[18:56:17] : finished unit tests
+[18:57:25] : starting unit tests
+[18:57:25] : objects/hello/construct.js - pass
+[18:57:25] : rooms/loader_room.js - pass
+[18:57:25] : objects/preloader/construct.js - fail
+[18:57:26] : finished unit tests
+[18:58:1] : starting unit tests
+[18:58:1] : objects/hello/construct.js - pass
+[18:58:1] : rooms/loader_room.js - pass
+[18:58:1] : objects/preloader/construct.js - fail
+[18:58:3] : finished unit tests
+[18:59:6] : starting unit tests
+[18:59:6] : objects/hello/construct.js - pass
+[18:59:6] : rooms/loader_room.js - pass
+[18:59:6] : objects/preloader/construct.js - fail
+[18:59:8] : finished unit tests
+[18:59:22] : starting unit tests
+[18:59:22] : objects/hello/construct.js - pass
+[18:59:22] : rooms/loader_room.js - pass
+[18:59:22] : objects/preloader/construct.js - fail
+[18:59:24] : finished unit tests
+[14:12:55] : starting unit tests
+[14:12:55] : objects/hello/construct.js - pass
+[14:12:55] : rooms/loader_room.js - pass
+[14:12:55] : objects/preloader/construct.js - fail
+[14:12:55] : finished unit tests
+[14:13:50] : starting unit tests
+[14:13:50] : objects/hello/construct.js - pass
+[14:13:50] : rooms/loader_room.js - pass
+[14:13:50] : objects/preloader/construct.js - fail
+[14:13:50] : finished unit tests
+[14:15:41] : starting unit tests
+[14:15:41] : objects/hello/construct.js - pass
+[14:15:41] : rooms/loader_room.js - pass
+[14:15:41] : objects/preloader/construct.js - pass
+[14:15:41] : finished unit tests
+[14:37:44] : starting unit tests
+[14:37:44] : objects/hello/construct.js - pass
+[14:37:44] : rooms/loader_room.js - pass
+[14:37:44] : objects/preloader/construct.js - pass
+[14:37:44] : objects/hello/construct.js - fail
+[14:37:44] : finished unit tests
+[14:37:52] : starting unit tests
+[14:37:52] : objects/hello/construct.js - pass
+[14:37:52] : rooms/loader_room.js - pass
+[14:37:52] : objects/preloader/construct.js - pass
+[14:37:52] : objects/hello/construct.js - fail
+[14:37:52] : finished unit tests
+[14:39:21] : starting unit tests
+[14:39:23] : rooms/loader_room.js - pass
+[14:39:23] : objects/preloader/construct.js - pass
+[14:39:23] : objects/hello/construct.js - fail
+[14:39:23] : finished unit tests
+[14:39:38] : starting unit tests
+[14:39:38] : objects/hello/construct.js : 0
+[14:39:38] : objects/hello/construct.js - pass
+[14:39:38] : rooms/loader_room.js - pass
+[14:39:38] : objects/preloader/construct.js - pass
+[14:39:38] : objects/hello/construct.js - fail
+[14:39:38] : finished unit tests
+[14:40:35] : starting unit tests
+[14:40:35] : objects/hello/construct.js : 0
+[14:40:35] : objects/hello/construct.js - pass
+[14:40:35] : rooms/loader_room.js - pass
+[14:40:35] : objects/preloader/construct.js - pass
+[14:40:35] : objects/hello/construct.js - fail
+[14:40:35] : finished unit tests
+[14:44:28] : starting unit tests
+[14:44:28] : objects/hello/construct.js : 0
+[14:44:28] : objects/hello/construct.js - pass
+[14:44:28] : objects/preloader/construct.js : 1
+[14:44:28] : objects/preloader/construct.js - pass
+[14:44:29] : objects/preloader/ev_create.js : 0
+[14:44:29] : objects/preloader/ev_create.js - pass
+[14:44:29] : rooms/loader_room.js - pass
+[14:44:29] : objects/preloader/construct.js - pass
+[14:44:29] : objects/preloader/ev_create.js - fail
+[14:44:29] : finished unit tests
+[14:44:37] : starting unit tests
+[14:44:37] : objects/hello/construct.js : 0
+[14:44:37] : objects/hello/construct.js - pass
+[14:44:37] : objects/preloader/construct.js : 1
+[14:44:37] : objects/preloader/construct.js - pass
+[14:44:40] : objects/preloader/ev_create.js : 0
+[14:44:40] : objects/preloader/ev_create.js - pass
+[14:44:40] : rooms/loader_room.js - pass
+[14:44:40] : objects/preloader/construct.js - pass
+[14:44:41] : objects/preloader/ev_create.js - fail
+[14:44:41] : finished unit tests
+[14:46:11] : starting unit tests
+[14:46:11] : objects/hello/construct.js : 0
+[14:46:11] : objects/hello/construct.js - pass
+[14:46:11] : objects/preloader/construct.js : 1
+[14:46:11] : objects/preloader/construct.js - pass
+[14:46:12] : objects/preloader/ev_create.js : 0
+[14:46:12] : objects/preloader/ev_create.js - pass
+[14:46:12] : rooms/loader_room.js : 1
+[14:46:12] : rooms/loader_room.js - pass
+[14:46:12] : rooms/loader_room.js - pass
+[14:46:12] : objects/preloader/construct.js - pass
+[14:46:12] : finished unit tests
+[14:46:20] : starting unit tests
+[14:46:20] : objects/hello/construct.js : 0
+[14:46:20] : objects/hello/construct.js - pass
+[14:46:20] : objects/preloader/construct.js : 1
+[14:46:20] : objects/preloader/construct.js - pass
+[14:46:21] : objects/preloader/ev_create.js : 0
+[14:46:21] : objects/preloader/ev_create.js - pass
+[14:46:21] : rooms/loader_room.js : 1
+[14:46:21] : rooms/loader_room.js - pass
+[14:46:21] : rooms/loader_room.js - pass
+[14:46:21] : objects/preloader/construct.js - pass
+[14:46:21] : finished unit tests
+[14:48:18] : starting unit tests
+[14:48:18] : objects/hello/construct.js - 0 - pass
+[14:48:18] : objects/preloader/construct.js - 1 - pass
+[14:48:20] : objects/preloader/ev_create.js - 0 - pass
+[14:48:20] : rooms/loader_room.js - 1 - pass
+[14:48:20] : rooms/loader_room.js - pass
+[14:48:20] : objects/preloader/construct.js - pass
+[14:48:20] : finished unit tests
+[14:49:41] : starting unit tests
+[14:49:41] : objects/hello/construct.js - 0 - pass
+[14:49:41] : objects/preloader/construct.js - 1 - pass
+[14:49:42] : objects/preloader/ev_create.js - 0 - pass
+[14:49:42] : rooms/loader_room.js - 1 - pass
+[14:49:42] : finished unit tests
+[14:53:26] : starting unit tests
+[14:53:26] : objects/hello/construct.js - 0 - pass
+[14:53:26] : objects/hello/ev_draw.js - 0 - pass
+[14:53:26] : objects/preloader/construct.js - 1 - pass
+[14:53:27] : objects/preloader/ev_create.js - 0 - pass
+[14:53:27] : rooms/loader_room.js - 1 - pass
+[14:53:27] : finished unit tests
+[14:56:56] : starting unit tests
+[14:56:56] : objects/hello/construct.js - 0 - pass
+[14:56:56] : objects/hello/ev_draw.js - 0 - pass
+[14:56:56] : objects/preloader/construct.js - 1 - pass
+[14:56:57] : objects/preloader/ev_create.js - 0 - pass
+[14:56:57] : rooms/loader_room.js - 1 - pass
+[14:56:57] : finished unit tests
+[14:57:34] : starting unit tests
+[14:57:34] : objects/hello/construct.js - 0 - pass
+[14:57:34] : objects/hello/ev_draw.js - 0 - pass
+[14:57:34] : objects/preloader/construct.js - 1 - pass
+[14:57:34] : objects/preloader/ev_create.js - 0 - pass
+[14:57:34] : rooms/loader_room.js - 1 - pass
+[14:57:34] : finished unit tests
+[15:0:38] : starting unit tests
+[15:0:38] : objects/hello/construct.js - 0 - pass
+[15:0:38] : objects/hello/ev_draw.js - 0 - pass
+[15:0:38] : objects/preloader/construct.js - 1 - pass
+[15:0:38] : objects/preloader/ev_create.js - 0 - pass
+[15:0:38] : rooms/loader_room.js - 1 - pass
+[15:0:38] : finished unit tests
+[15:1:31] : starting unit tests
+[15:1:31] : objects/hello/construct.js - 0 - pass
+[15:1:31] : objects/hello/ev_draw.js - 0 - pass
+[15:1:31] : objects/preloader/construct.js - 1 - pass
+[15:1:31] : objects/preloader/ev_create.js - 0 - pass
+[15:1:31] : rooms/loader_room.js - 1 - pass
+[15:1:31] : finished unit tests
